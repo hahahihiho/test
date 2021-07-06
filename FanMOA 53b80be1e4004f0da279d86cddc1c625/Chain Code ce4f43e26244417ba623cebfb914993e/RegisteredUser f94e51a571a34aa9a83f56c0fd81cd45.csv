@@ -1,0 +1,4 @@
+﻿이름,태그,설명
+UserId,string,
+Events,[]string,
+Tickets,[]string,
